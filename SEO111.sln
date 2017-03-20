@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SEO111(2)", ".", "{2433CA40-276D-436D-A315-F5F07BBC104A}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "asp3", ".", "{2433CA40-276D-436D-A315-F5F07BBC104A}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_24938"
-		Debug.AspNetCompiler.PhysicalPath = "..\ASP.NET_II\"
+		Debug.AspNetCompiler.PhysicalPath = "..\asp3\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24938\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_24938"
-		Release.AspNetCompiler.PhysicalPath = "..\ASP.NET_II\"
+		Release.AspNetCompiler.PhysicalPath = "..\asp3\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24938\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "24938"
-		SlnRelativePath = "..\ASP.NET_II\"
+		SlnRelativePath = "..\asp3\"
 	EndProjectSection
 EndProject
 Global
